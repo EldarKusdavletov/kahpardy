@@ -1,0 +1,157 @@
+{
+  "title": "Мемная игра — пример",
+  "themes": [
+    {
+      "name": { "ru": "География", "en": "Geography" },
+      "questions": [
+        {
+          "value": 100,
+          "text": { "ru": "Столица Южной Кореи?", "en": "What is the capital of South Korea?" },
+          "options": [
+            { "ru": "Сеул", "en": "Seoul" },
+            { "ru": "Пусан", "en": "Busan" },
+            { "ru": "Ульсан", "en": "Ulsan" },
+            { "ru": "Тэгу", "en": "Daegu" }
+          ],
+          "correct": 0, "image": null, "bag": false
+        },
+        {
+          "value": 200,
+          "text": { "ru": "Самая длинная река в мире (по большинству оценок)?", "en": "The longest river in the world (by most measurements)?" },
+          "options": [
+            { "ru": "Амазонка", "en": "Amazon" },
+            { "ru": "Нил", "en": "Nile" },
+            { "ru": "Янцзы", "en": "Yangtze" },
+            { "ru": "Миссисипи", "en": "Mississippi" }
+          ],
+          "correct": 1, "image": null, "bag": false
+        },
+        {
+          "value": 300,
+          "text": { "ru": "Самое глубокое озеро в мире?", "en": "What is the deepest lake in the world?" },
+          "options": [
+            { "ru": "Танганьика", "en": "Tanganyika" },
+            { "ru": "Каспийское море", "en": "Caspian Sea" },
+            { "ru": "Байкал", "en": "Baikal" },
+            { "ru": "Виктория", "en": "Victoria" }
+          ],
+          "correct": 2, "image": null, "bag": false
+        }
+      ]
+    },
+    {
+      "name": { "ru": "Наука", "en": "Science" },
+      "questions": [
+        {
+          "value": 100,
+          "text": { "ru": "Химический символ золота?", "en": "What is the chemical symbol for gold?" },
+          "options": [
+            { "ru": "Go", "en": "Go" },
+            { "ru": "Gd", "en": "Gd" },
+            { "ru": "Ag", "en": "Ag" },
+            { "ru": "Au", "en": "Au" }
+          ],
+          "correct": 3, "image": null, "bag": false
+        },
+        {
+          "value": 200,
+          "text": { "ru": "Сколько планет в Солнечной системе?", "en": "How many planets are in the Solar System?" },
+          "options": [
+            { "ru": "7", "en": "7" },
+            { "ru": "8", "en": "8" },
+            { "ru": "9", "en": "9" },
+            { "ru": "10", "en": "10" }
+          ],
+          "correct": 1, "image": null, "bag": false
+        },
+        {
+          "value": 300,
+          "text": { "ru": "Какая частица не имеет электрического заряда?", "en": "Which particle has no electric charge?" },
+          "options": [
+            { "ru": "Нейтрон", "en": "Neutron" },
+            { "ru": "Протон", "en": "Proton" },
+            { "ru": "Электрон", "en": "Electron" },
+            { "ru": "Позитрон", "en": "Positron" }
+          ],
+          "correct": 0, "image": null, "bag": false
+        }
+      ]
+    },
+    {
+      "name": { "ru": "Кино", "en": "Movies" },
+      "questions": [
+        {
+          "value": 100,
+          "text": { "ru": "Как зовут волшебника-мальчика с шрамом-молнией?", "en": "What is the name of the boy wizard with a lightning scar?" },
+          "options": [
+            { "ru": "Фродо", "en": "Frodo" },
+            { "ru": "Люк", "en": "Luke" },
+            { "ru": "Гарри", "en": "Harry" },
+            { "ru": "Перси", "en": "Percy" }
+          ],
+          "correct": 2, "image": null, "bag": false
+        },
+        {
+          "value": 200,
+          "text": { "ru": "Какой корейский фильм получил «Оскар» за лучший фильм?", "en": "Which Korean film won the Oscar for Best Picture?" },
+          "options": [
+            { "ru": "Олдбой", "en": "Oldboy" },
+            { "ru": "Поезд в Пусан", "en": "Train to Busan" },
+            { "ru": "Горничная", "en": "The Handmaiden" },
+            { "ru": "Паразиты", "en": "Parasite" }
+          ],
+          "correct": 3, "image": null, "bag": false
+        },
+        {
+          "value": 300,
+          "text": { "ru": "Кто снял фильм «Начало» (Inception)?", "en": "Who directed Inception?" },
+          "options": [
+            { "ru": "Дени Вильнёв", "en": "Denis Villeneuve" },
+            { "ru": "Кристофер Нолан", "en": "Christopher Nolan" },
+            { "ru": "Ридли Скотт", "en": "Ridley Scott" },
+            { "ru": "Дэвид Финчер", "en": "David Fincher" }
+          ],
+          "correct": 1, "image": null, "bag": false
+        }
+      ]
+    },
+    {
+      "name": { "ru": "Технологии", "en": "Tech" },
+      "questions": [
+        {
+          "value": 100,
+          "text": { "ru": "Что означает буква «W» в WWW?", "en": "What does the \"W\" in WWW stand for?" },
+          "options": [
+            { "ru": "Web", "en": "Web" },
+            { "ru": "Wide", "en": "Wide" },
+            { "ru": "World", "en": "World" },
+            { "ru": "Wireless", "en": "Wireless" }
+          ],
+          "correct": 2, "image": null, "bag": false
+        },
+        {
+          "value": 200,
+          "text": { "ru": "Кто создал ядро Linux?", "en": "Who created the Linux kernel?" },
+          "options": [
+            { "ru": "Линус Торвальдс", "en": "Linus Torvalds" },
+            { "ru": "Ричард Столлман", "en": "Richard Stallman" },
+            { "ru": "Деннис Ритчи", "en": "Dennis Ritchie" },
+            { "ru": "Кен Томпсон", "en": "Ken Thompson" }
+          ],
+          "correct": 0, "image": null, "bag": false
+        },
+        {
+          "value": 300,
+          "text": { "ru": "В каком году вышел первый iPhone?", "en": "In what year was the first iPhone released?" },
+          "options": [
+            { "ru": "2004", "en": "2004" },
+            { "ru": "2005", "en": "2005" },
+            { "ru": "2006", "en": "2006" },
+            { "ru": "2007", "en": "2007" }
+          ],
+          "correct": 3, "image": null, "bag": true
+        }
+      ]
+    }
+  ]
+}
